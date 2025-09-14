@@ -9,7 +9,7 @@ Both of these projects are very interesting and are recommended for assembly by 
 
 <strong>CONTROL</strong>
 
-Both of hexapods are working with help of two smartphones (server/client) and _______app.
+Both of hexapods are working with help of two smartphones (server/client) and <a href="https://play.google.com/store/apps/details?id=com.makeyourpet.chicaserver">Chica Server</a> and <a href="https://play.google.com/store/apps/details?id=chica.android">Chica Client</a> apps.
 You can use any Android based smartphones you preffer.
 
 Here are some urgent requirements for them:
@@ -32,4 +32,8 @@ TBD CHIPO
 
 TBD CHICA
 TBD CHIPO
+
+<strong>CONFIG AND LAUNCH</strong>
+
+TBD
 
